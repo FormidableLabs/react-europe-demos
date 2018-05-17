@@ -6,6 +6,6 @@ import DefaultHeader from './default-header';
 const { Consumer, Provider } = createContext(
   image: baguette,
   HeaderComponent: DefaultHeader,
-}{);
+});
 
 export { Provider, Consumer };
