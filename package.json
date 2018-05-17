@@ -1,0 +1,20 @@
+{
+  "name": "react-europe-demos",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "react": "16.4.0-alpha.0911da3",
+    "react-dom": "16.4.0-alpha.0911da3",
+    "react-scripts": "1.1.4",
+    "simple-cache-provider": "^0.5.0",
+    "styled-components": "^3.2.6",
+    "urql": "^0.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
